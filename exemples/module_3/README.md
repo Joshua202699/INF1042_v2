@@ -1,7 +1,7 @@
 # Module 3 — Exemples Python
 
 Ces fichiers accompagnent les présentations du Module 3.
-
+jhjhh
 ## Organisation
 
 Chaque dossier correspond à une présentation PowerPoint. Les exemples ont été
