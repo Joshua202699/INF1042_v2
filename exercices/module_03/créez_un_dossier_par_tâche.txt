@@ -1,2 +1,15 @@
 Pour chaque tâche, créez un dossier et placez-y vos fichiers.
 Joshua Ilunga
+12 + 15 + 9 /3 ==> 12.00
+Affichez : Moyenne = 12.00
+367//60 ==> 6
+Affichez : 367 secondes = 6 min 7 s
+x = 7.8
+y = int(x)
+diff = x - y
+y=7
+diff=0.8
+bonbons=53
+eleves=8
+part=53//8 ==> 6
+reste=0.625
