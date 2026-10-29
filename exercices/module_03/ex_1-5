@@ -1,0 +1,5 @@
+age=int(input("Votre age:"))
+Si (age >= 18)
+Affiche("Accès autorisé")
+Sinon
+Affiche(Accès refusé)
